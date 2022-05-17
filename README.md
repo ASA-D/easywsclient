@@ -1,9 +1,8 @@
 easywsclient
 ============
 
-Easywsclient is an easy and powerful WebSocket client to get your
-C++ code connected to a web stack right away. It depends only on the
-standard libraries.  It is compatible with modern C++11 std::function and
+Easywsclient は、C++ コードがすぐにwebスタックに接続できる簡単で強力なウェブソケットクライアントです。 標準ライブラリにのみ依存します。
+It is compatible with modern C++11 std::function and
 [lambda](http://en.wikipedia.org/wiki/Anonymous_function#C.2B.2B),
 if they're available (it's not required though).  [RFC
 6455](http://tools.ietf.org/html/rfc6455) Version 13 WebSocket is
